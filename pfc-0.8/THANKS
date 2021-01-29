@@ -1,0 +1,2 @@
+Much thanks to Markus F.X.J. Oberhumer for the LZO real-time data compression
+library.  See src/lzoconf.h for contact information.

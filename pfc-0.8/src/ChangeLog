@@ -1,0 +1,7 @@
+1998-12-15  Matt Armstrong  <mattdav+matt@best.com>
+
+	* pfc.c: HAVE_MEMCMP, HAVE_MEMCPY, HAVE_MEMMOVE and HAVE_MEMSET
+	handling fixed.
+	(daemon_start): new function.
+	(main): call daemon_start
+
